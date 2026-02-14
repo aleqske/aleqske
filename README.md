@@ -22,12 +22,14 @@
 <p>
 My name is <b>ALEX KIMEU</b> ... Software Engineer with hands-on experience building full fledged Software products using modern technologies.
 
-Primary Skill Set: 
-- Backend Engineering (Java/Spring Boot, Go, Node)
-- Frontend Development (React/Next, Astro)
-- Mobile Development (React Native)
+Core Competencies:
+ • Backend Development: Java & Spring Boot, Go, Python, Node.js
+ • Frontend Development: React, Next.js, TypeScript
+ • Mobile Development: React Native
+ • Databases: MySQL, PostgreSQL, MongoDB
+ • APIs & Systems Integration: REST, SOAP, GraphQL, Webhooks, Prrotocol Buffers
  
-It's amazing that we live in an age where we can make many possibilities with technology & I'm ready to collaborate with other engineers as well as non-technical teams in my career to develop solutions geared to improve performance & accelerate business processes.
+It's amazing that we live in an age where we can make many possibilities with technology and I'm ready to collaborate with other engineers as well as non-technical teams in my career to develop solutions geared to improve performance and accelerate business processes.
 </p>
 
 <!-- <h3 align="center">Languages and Tools</h3>
