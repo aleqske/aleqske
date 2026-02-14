@@ -22,7 +22,7 @@
 <p>
 My name is <b>ALEX KIMEU</b> ... Software Engineer with hands-on experience building full fledged Software products using modern technologies.
 
-## Core Competencies
+### Core Competencies
 
 - **Backend Development:** Java & Spring Boot, Go, Python, Node.js
 - **Frontend Development:** React, Next.js, TypeScript
