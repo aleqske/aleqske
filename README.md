@@ -1,4 +1,4 @@
-<h1 align="center">Hello nerds 👋</h1>
+<h1 align="center">Hello Nerds 👋</h1>
 
 <div align="center">
   <a href="https://www.alex-kimeu.com/">
