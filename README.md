@@ -30,10 +30,10 @@ My name is <b>ALEX KIMEU</b> ... Software Engineer with hands-on experience buil
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **APIs & Systems Integration:** REST, SOAP, GraphQL, Webhooks, Protocol Buffers
  
-It's amazing that we live in an age where we can make many possibilities with technology and I'm ready to collaborate with other engineers as well as non-technical teams in my career to develop solutions geared to improve performance and accelerate business processes.
+It's amazing that we live in an age where we can make many possibilities with technology & I'm ready to collaborate with other engineers as well as non-technical teams in my career to develop solutions geared to improve performance & accelerate business processes.
 </p>
 
-<!-- <h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -72,9 +72,9 @@ It's amazing that we live in an age where we can make many possibilities with te
 <a href="https://openjdk.java.net/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" width="50" height="50"/>
 </a>
-</p> -->
+</p>
 
-<!-- <h3 align="center">Coding Stats</h3>
+<h3 align="center">Coding Stats</h3>
 
 <table>
 <tr>
@@ -102,4 +102,4 @@ It's amazing that we live in an age where we can make many possibilities with te
 
 </td>
 </tr>
-</table> -->
+</table>
