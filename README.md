@@ -10,7 +10,7 @@
   <a href="https://twitter.com/alekskimeu">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://medium.com/@alexkimeu">
+  <a href="https://medium.com/@aleqske">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://aleks.hashnode.dev/">
