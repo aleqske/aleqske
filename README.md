@@ -20,13 +20,11 @@
 
 <br>
 <p>
-  # ALEX KIMEU
-
 My name is **ALEX KIMEU**. I’m a Software Engineer with over 5 years of experience in software engineering. I specialize in designing and delivering backend systems and integrations that are resilient, scalable, and production-ready.
 
 I’ve worked across fintech and data-driven systems, handling everything from complex API integrations (REST, SOAP, third-party services) to high-throughput backend services and dashboards that translate raw data into actionable insights. I’m particularly strong in environments where reliability, performance, and clarity are non-negotiable.
 
-## What I bring
+### What I bring
 
 - Design and implementation of scalable backend services (Java, Spring Boot, Go, Node.js)
 - Building robust integrations across external systems and APIs
