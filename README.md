@@ -20,23 +20,21 @@
 
 <br>
 <p>
-  
-My name is **ALEX KIMEU**. I'm a **Software Engineer** With 5+ years in software engineering, I specialize in designing and delivering backend systems and integrations that are resilient, scalable, and production-ready. 
+  # ALEX KIMEU
+
+My name is **ALEX KIMEU**. I’m a Software Engineer with over 5 years of experience in software engineering. I specialize in designing and delivering backend systems and integrations that are resilient, scalable, and production-ready.
 
 I’ve worked across fintech and data-driven systems, handling everything from complex API integrations (REST, SOAP, third-party services) to high-throughput backend services and dashboards that translate raw data into actionable insights. I’m particularly strong in environments where reliability, performance, and clarity are non-negotiable.
 
-#### What I bring:
-• Design and implementation of scalable backend services (Java, Spring Boot, Go, Node.js) 
+## What I bring
 
-• Building robust integrations across external systems and APIs 
+- Design and implementation of scalable backend services (Java, Spring Boot, Go, Node.js)
+- Building robust integrations across external systems and APIs
+- Structuring data pipelines and dashboards that support decision-making
+- Writing clean, maintainable code that teams can build on—not rewrite
+- Bridging the gap between technical teams and business stakeholders
 
-• Structuring data pipelines and dashboards that support decision-making 
+I’m known for simplifying complexity and breaking down technical problems so both engineers and non-technical stakeholders can align and move forward quickly. I approach every project with a systems mindset: understanding how pieces fit together, where failures can occur, and how to build for scale from the start.
 
-• Writing clean, maintainable code that teams can build on - not rewrite 
-
-• Bridging the gap between technical teams and business stakeholders 
-
-I’m known for simplifying complexity, breaking down technical problems so both engineers and non-technical stakeholders can align and move forward quickly. I approach every project with a systems mindset: understanding how pieces fit together, where failures can occur, and how to build for scale from the start.
- 
 If you’re working on systems where performance, reliability, and clarity matter, we’ll likely get along.
 </p>
