@@ -20,7 +20,8 @@
 
 <br>
 <p>
-With 5+ years in software engineering, I specialize in designing and delivering backend systems and integrations that are resilient, scalable, and production-ready. 
+  
+My name is **ALEX KIMEU**. I'm a **Software Engineer** With 5+ years in software engineering, I specialize in designing and delivering backend systems and integrations that are resilient, scalable, and production-ready. 
 
 I’ve worked across fintech and data-driven systems, handling everything from complex API integrations (REST, SOAP, third-party services) to high-throughput backend services and dashboards that translate raw data into actionable insights. I’m particularly strong in environments where reliability, performance, and clarity are non-negotiable.
 
