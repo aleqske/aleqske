@@ -20,15 +20,18 @@
 
 <br>
 <p>
-My name is <b>ALEX KIMEU</b> ... Software Engineer with hands-on experience building full fledged Software products using modern technologies.
+With 5+ years in software engineering, I specialize in designing and delivering backend systems and integrations that are resilient, scalable, and production-ready. 
 
-#### Core Competencies
+I’ve worked across fintech and data-driven systems, handling everything from complex API integrations (REST, SOAP, third-party services) to high-throughput backend services and dashboards that translate raw data into actionable insights. I’m particularly strong in environments where reliability, performance, and clarity are non-negotiable.
 
-- **Backend Development:** Java & Spring Boot, Go, Python, Node.js
-- **Frontend Development:** React, Next.js, TypeScript
-- **Mobile Development:** React Native
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **APIs & Systems Integration:** REST, SOAP, GraphQL, Webhooks, Protocol Buffers
+#### What I bring:
+• Design and implementation of scalable backend services (Java, Spring Boot, Go, Node.js) 
+• Building robust integrations across external systems and APIs 
+• Structuring data pipelines and dashboards that support decision-making 
+• Writing clean, maintainable code that teams can build on - not rewrite 
+• Bridging the gap between technical teams and business stakeholders 
+
+I’m known for simplifying complexity, breaking down technical problems so both engineers and non-technical stakeholders can align and move forward quickly. I approach every project with a systems mindset: understanding how pieces fit together, where failures can occur, and how to build for scale from the start.
  
-It's amazing that we live in an age where we can make many possibilities with technology & I'm ready to collaborate with other engineers as well as non-technical teams in my career to develop solutions geared to improve performance & accelerate business processes.
+If you’re working on systems where performance, reliability, and clarity matter, we’ll likely get along.
 </p>
