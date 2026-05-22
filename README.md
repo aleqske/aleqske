@@ -27,9 +27,13 @@ I’ve worked across fintech and data-driven systems, handling everything from c
 
 #### What I bring:
 • Design and implementation of scalable backend services (Java, Spring Boot, Go, Node.js) 
+
 • Building robust integrations across external systems and APIs 
+
 • Structuring data pipelines and dashboards that support decision-making 
+
 • Writing clean, maintainable code that teams can build on - not rewrite 
+
 • Bridging the gap between technical teams and business stakeholders 
 
 I’m known for simplifying complexity, breaking down technical problems so both engineers and non-technical stakeholders can align and move forward quickly. I approach every project with a systems mindset: understanding how pieces fit together, where failures can occur, and how to build for scale from the start.
