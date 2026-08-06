@@ -21,9 +21,9 @@
 <br>
 <p>
   
-My name is **ALEX KIMEU** . I’m a Software Engineer with over 5 years of experience in software engineering. I specialize in designing and delivering backend systems and integrations that are resilient, scalable, and production-ready.
+My name is **ALEX KIMEU** . I’m a Seasoned Software Engineer with 5+ years of progressive experience architecting high-impact, scalable systems across the full development life-cycle.
 
-I’ve worked across fintech and data-driven systems, handling everything from complex API integrations (REST, SOAP, third-party services) to high-throughput backend services and dashboards that translate raw data into actionable insights. I’m particularly strong in environments where reliability, performance, and clarity are non-negotiable.
+Over the course of the last few years, I’ve worked across Fintech and data-driven systems, handling everything from complex API integrations (REST, SOAP, third-party services) to high-throughput back-end services and dashboards that translate raw data into actionable insights.
 
 ### What I bring
 
@@ -33,7 +33,5 @@ I’ve worked across fintech and data-driven systems, handling everything from c
 - Writing clean, maintainable code that teams can build on—not rewrite
 - Bridging the gap between technical teams and business stakeholders
 
-I’m known for simplifying complexity and breaking down technical problems so both engineers and non-technical stakeholders can align and move forward quickly. I approach every project with a systems mindset: understanding how pieces fit together, where failures can occur, and how to build for scale from the start.
-
-If you’re working on systems where performance, reliability, and clarity matter, we’ll likely get along.
+It's amazing that we live in an age where we can make many possibilities with technology and I'm ready to collaborate with other engineers as well as non-technical teams in my career to develop solutions that are geared to improve performance and accelerate business processes.
 </p>
